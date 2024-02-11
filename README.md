@@ -2,7 +2,7 @@
 
 This project is a simple website showcasing various Apple products using React and Material-UI components. It includes a home page with a header, information section, product sections, and individual product components.
 
-You can check clone her: [Apple Website Clone](https://github.com/konprtk/appleWebsiteClone)
+You can check the clone here : [konprtk.io/appleWebsiteClone](https://github.com/konprtk/appleWebsiteClone)
 ## Project Structure
 
 - **src/pages/Home.js**: The main component for the home page that includes the header, information, product sections, and products.
