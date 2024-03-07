@@ -33,7 +33,7 @@ const Section = ({data}) => {
         <Typography>
             <Typography component="span" style={linkStyle}>Learn more &gt;</Typography>
         </Typography>
-        <Typography component="span" style={linkStyle}>Buy &gt;</Typography>
+        <Typography component="span" style={linkStyle}>Bey &gt;</Typography>
        </Component>
     )
 }
